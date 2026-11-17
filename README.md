@@ -55,7 +55,7 @@ The protocol files are documentation, not executable code. Before rerunning with
 
 ## Data availability wording for the manuscript
 
-The FAERS quarterly releases are publicly available from the U.S. Food and Drug Administration. The analysis code, frozen ocular preferred-term dictionary, non-identifying derived summary tables, protocols, and publication figures are archived in this repository. A permanent public DOI should be added after the repository is published or deposited in Zenodo.
+The FAERS quarterly releases are publicly available from the U.S. Food and Drug Administration. The analysis code, frozen ocular preferred-term dictionary, non-identifying derived summary tables, protocols, and publication figures are available at https://github.com/yinzhimiao37-cloud/pde5i-ocular-faers. A permanent DOI may be added after Zenodo archiving.
 
 ## Interpretation boundary
 
