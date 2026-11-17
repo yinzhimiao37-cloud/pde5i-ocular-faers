@@ -1,0 +1,420 @@
+pt,include_ocular,ocular_group,review_reason
+BLEPHARITIS,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+BLEPHAROCHALASIS,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+BLEPHAROSPASM,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+CELLULITIS ORBITAL,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+CHALAZION,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+DACRYOCANALICULITIS,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+DACRYOCYSTITIS,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+DACRYOSTENOSIS ACQUIRED,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+DARK CIRCLES UNDER EYES,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+ECZEMA EYELIDS,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+ERYTHEMA OF EYELID,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+EXOPHTHALMOS,True,adnexa_lacrimal_orbit,Added by prespecified ophthalmic synonym review
+EYELASH DISCOLOURATION,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+EYELID BLEEDING,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+EYELID BOIL,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+EYELID CYST,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+EYELID DISORDER,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+EYELID EXFOLIATION,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+EYELID FUNCTION DISORDER,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+EYELID INFECTION,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+EYELID INJURY,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+EYELID IRRITATION,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+EYELID MARGIN CRUSTING,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+EYELID OEDEMA,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+EYELID OPERATION,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+EYELID PAIN,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+EYELID PTOSIS,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+EYELID RASH,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+EYELID SCAR,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+EYELID SENSORY DISORDER,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+EYELID SKIN DRYNESS,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+EYELID VASCULAR DISORDER,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+EYELIDS PRURITUS,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+FLOPPY EYELID SYNDROME,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+GROWTH OF EYELASHES,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+HORDEOLUM,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+LACRIMAL DISORDER,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+LACRIMAL HAEMORRHAGE,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+LACRIMAL STRUCTURAL DISORDER,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+LACRIMAL STRUCTURE INJURY,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+LACRIMATION DECREASED,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+LACRIMATION DISORDER,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+LACRIMATION INCREASED,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+LAGOPHTHALMOS,True,adnexa_lacrimal_orbit,Added by prespecified ophthalmic synonym review
+MADAROSIS,True,adnexa_lacrimal_orbit,Added by prespecified ophthalmic synonym review
+MEIBOMIAN GLAND DYSFUNCTION,True,adnexa_lacrimal_orbit,Added by prespecified ophthalmic synonym review
+MEIBOMIANITIS,True,adnexa_lacrimal_orbit,Added by prespecified ophthalmic synonym review
+ORBITAL COMPARTMENT SYNDROME,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+ORBITAL MYOSITIS,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+ORBITAL OEDEMA,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+PERIORBITAL ABSCESS,True,adnexa_lacrimal_orbit,Added by prespecified ophthalmic synonym review
+PERIORBITAL CELLULITIS,True,adnexa_lacrimal_orbit,Added by prespecified ophthalmic synonym review
+PERIORBITAL CONTUSION,True,adnexa_lacrimal_orbit,Added by prespecified ophthalmic synonym review
+PERIORBITAL DISCOMFORT,True,adnexa_lacrimal_orbit,Added by prespecified ophthalmic synonym review
+PERIORBITAL DISORDER,True,adnexa_lacrimal_orbit,Added by prespecified ophthalmic synonym review
+PERIORBITAL HAEMATOMA,True,adnexa_lacrimal_orbit,Added by prespecified ophthalmic synonym review
+PERIORBITAL HAEMORRHAGE,True,adnexa_lacrimal_orbit,Added by prespecified ophthalmic synonym review
+PERIORBITAL OEDEMA,True,adnexa_lacrimal_orbit,Added by prespecified ophthalmic synonym review
+PERIORBITAL PAIN,True,adnexa_lacrimal_orbit,Added by prespecified ophthalmic synonym review
+PERIORBITAL SWELLING,True,adnexa_lacrimal_orbit,Added by prespecified ophthalmic synonym review
+SWELLING OF EYELID,True,adnexa_lacrimal_orbit,Included after semantic review of keyword candidate
+ACUTE HAEMORRHAGIC CONJUNCTIVITIS,True,anterior_segment_surface,Included after semantic review of keyword candidate
+ANTERIOR CHAMBER FLARE,True,anterior_segment_surface,Added by prespecified ophthalmic synonym review
+AUTOIMMUNE UVEITIS,True,anterior_segment_surface,Included after semantic review of keyword candidate
+CONJUNCTIVAL BLEB,True,anterior_segment_surface,Included after semantic review of keyword candidate
+CONJUNCTIVAL CYST,True,anterior_segment_surface,Included after semantic review of keyword candidate
+CONJUNCTIVAL DISCOLOURATION,True,anterior_segment_surface,Included after semantic review of keyword candidate
+CONJUNCTIVAL HAEMORRHAGE,True,anterior_segment_surface,Included after semantic review of keyword candidate
+CONJUNCTIVAL HYPERAEMIA,True,anterior_segment_surface,Included after semantic review of keyword candidate
+CONJUNCTIVAL MELANOMA,True,anterior_segment_surface,Included after semantic review of keyword candidate
+CONJUNCTIVAL OEDEMA,True,anterior_segment_surface,Included after semantic review of keyword candidate
+CONJUNCTIVAL PALLOR,True,anterior_segment_surface,Included after semantic review of keyword candidate
+CONJUNCTIVITIS,True,anterior_segment_surface,Included after semantic review of keyword candidate
+CONJUNCTIVITIS ALLERGIC,True,anterior_segment_surface,Included after semantic review of keyword candidate
+CONJUNCTIVITIS INFECTIVE,True,anterior_segment_surface,Included after semantic review of keyword candidate
+CONJUNCTIVITIS VIRAL,True,anterior_segment_surface,Included after semantic review of keyword candidate
+CORNEAL ABRASION,True,anterior_segment_surface,Included after semantic review of keyword candidate
+CORNEAL ABSCESS,True,anterior_segment_surface,Included after semantic review of keyword candidate
+CORNEAL BLEEDING,True,anterior_segment_surface,Included after semantic review of keyword candidate
+CORNEAL CYST,True,anterior_segment_surface,Included after semantic review of keyword candidate
+CORNEAL DEFECT,True,anterior_segment_surface,Included after semantic review of keyword candidate
+CORNEAL DEGENERATION,True,anterior_segment_surface,Included after semantic review of keyword candidate
+CORNEAL DEPOSITS,True,anterior_segment_surface,Included after semantic review of keyword candidate
+CORNEAL DISORDER,True,anterior_segment_surface,Included after semantic review of keyword candidate
+CORNEAL DYSTROPHY,True,anterior_segment_surface,Included after semantic review of keyword candidate
+CORNEAL EPITHELIUM DEFECT,True,anterior_segment_surface,Included after semantic review of keyword candidate
+CORNEAL GRAFT FAILURE,True,anterior_segment_surface,Included after semantic review of keyword candidate
+CORNEAL IRRITATION,True,anterior_segment_surface,Included after semantic review of keyword candidate
+CORNEAL LESION,True,anterior_segment_surface,Included after semantic review of keyword candidate
+CORNEAL OEDEMA,True,anterior_segment_surface,Included after semantic review of keyword candidate
+CORNEAL OPACITY,True,anterior_segment_surface,Included after semantic review of keyword candidate
+CORNEAL REFLEX DECREASED,True,anterior_segment_surface,Included after semantic review of keyword candidate
+CORNEAL TRANSPLANT,True,anterior_segment_surface,Included after semantic review of keyword candidate
+ENDOPHTHALMITIS,True,anterior_segment_surface,Included after semantic review of keyword candidate
+FLOPPY IRIS SYNDROME,True,anterior_segment_surface,Included after semantic review of keyword candidate
+HYPOPYON,True,anterior_segment_surface,Added by prespecified ophthalmic synonym review
+INFECTIVE CORNEAL ULCER,True,anterior_segment_surface,Included after semantic review of keyword candidate
+INFECTIVE KERATITIS,True,anterior_segment_surface,Included after semantic review of keyword candidate
+IRIDOCYCLITIS,True,anterior_segment_surface,Included after semantic review of keyword candidate
+IRIS ADHESIONS,True,anterior_segment_surface,Included after semantic review of keyword candidate
+IRIS HAEMORRHAGE,True,anterior_segment_surface,Included after semantic review of keyword candidate
+IRIS MELANOMA,True,anterior_segment_surface,Included after semantic review of keyword candidate
+IRIS TRANSILLUMINATION DEFECT,True,anterior_segment_surface,Included after semantic review of keyword candidate
+KERATITIS,True,anterior_segment_surface,Included after semantic review of keyword candidate
+KERATOCONUS,True,anterior_segment_surface,Included after semantic review of keyword candidate
+NARROW ANTERIOR CHAMBER ANGLE,True,anterior_segment_surface,Added by prespecified ophthalmic synonym review
+PINGUECULA,True,anterior_segment_surface,Included after semantic review of keyword candidate
+PTERYGIUM,True,anterior_segment_surface,Included after semantic review of keyword candidate
+PUNCTATE KERATITIS,True,anterior_segment_surface,Included after semantic review of keyword candidate
+SCLERAL DISCOLOURATION,True,anterior_segment_surface,Included after semantic review of keyword candidate
+SCLERAL DISORDER,True,anterior_segment_surface,Included after semantic review of keyword candidate
+SCLERAL HAEMORRHAGE,True,anterior_segment_surface,Included after semantic review of keyword candidate
+SCLERAL OEDEMA,True,anterior_segment_surface,Included after semantic review of keyword candidate
+TUBULOINTERSTITIAL NEPHRITIS AND UVEITIS SYNDROME,True,anterior_segment_surface,Included after semantic review of keyword candidate
+ULCERATIVE KERATITIS,True,anterior_segment_surface,Included after semantic review of keyword candidate
+UVEITIS,True,anterior_segment_surface,Included after semantic review of keyword candidate
+ANGLE CLOSURE GLAUCOMA,True,glaucoma_IOP,Included after semantic review of keyword candidate
+GLAUCOMA,True,glaucoma_IOP,Included after semantic review of keyword candidate
+HYPOTONY OF EYE,True,glaucoma_IOP,Included after semantic review of keyword candidate
+INTRAOCULAR PRESSURE DECREASED,True,glaucoma_IOP,Added by prespecified ophthalmic synonym review
+INTRAOCULAR PRESSURE FLUCTUATION,True,glaucoma_IOP,Added by prespecified ophthalmic synonym review
+INTRAOCULAR PRESSURE INCREASED,True,glaucoma_IOP,Added by prespecified ophthalmic synonym review
+NORMAL TENSION GLAUCOMA,True,glaucoma_IOP,Included after semantic review of keyword candidate
+OCULAR HYPERTENSION,True,glaucoma_IOP,Included after semantic review of keyword candidate
+OPEN ANGLE GLAUCOMA,True,glaucoma_IOP,Included after semantic review of keyword candidate
+CATARACT,True,lens_cataract,Included after semantic review of keyword candidate
+CATARACT CORTICAL,True,lens_cataract,Included after semantic review of keyword candidate
+CATARACT NUCLEAR,True,lens_cataract,Included after semantic review of keyword candidate
+LENS DISLOCATION,True,lens_cataract,Included after semantic review of keyword candidate
+LENS DISORDER,True,lens_cataract,Included after semantic review of keyword candidate
+LENTICULAR OPACITIES,True,lens_cataract,Added by prespecified ophthalmic synonym review
+LENTICULAR PIGMENTATION,True,lens_cataract,Added by prespecified ophthalmic synonym review
+PSEUDOPHAKIA,True,lens_cataract,Added by prespecified ophthalmic synonym review
+AMAUROSIS FUGAX,True,ocular_vascular_occlusion_ischaemia,Included after semantic review of keyword candidate
+OCULAR ISCHAEMIC SYNDROME,True,ocular_vascular_occlusion_ischaemia,Included after semantic review of keyword candidate
+OCULAR STROKE,True,ocular_vascular_occlusion_ischaemia,Included after semantic review of keyword candidate
+OPHTHALMIC VEIN THROMBOSIS,True,ocular_vascular_occlusion_ischaemia,Included after semantic review of keyword candidate
+OPTIC ISCHAEMIC NEUROPATHY,True,ocular_vascular_occlusion_ischaemia,Included after semantic review of keyword candidate
+OPTIC NERVE INFARCTION,True,ocular_vascular_occlusion_ischaemia,Included after semantic review of keyword candidate
+RETINAL ARTERY OCCLUSION,True,ocular_vascular_occlusion_ischaemia,Included after semantic review of keyword candidate
+RETINAL ARTERY STENOSIS,True,ocular_vascular_occlusion_ischaemia,Included after semantic review of keyword candidate
+RETINAL ARTERY THROMBOSIS,True,ocular_vascular_occlusion_ischaemia,Included after semantic review of keyword candidate
+RETINAL VASCULAR DISORDER,True,ocular_vascular_occlusion_ischaemia,Included after semantic review of keyword candidate
+RETINAL VASCULAR OCCLUSION,True,ocular_vascular_occlusion_ischaemia,Included after semantic review of keyword candidate
+RETINAL VASCULAR THROMBOSIS,True,ocular_vascular_occlusion_ischaemia,Included after semantic review of keyword candidate
+RETINAL VEIN OCCLUSION,True,ocular_vascular_occlusion_ischaemia,Included after semantic review of keyword candidate
+RETINAL VEIN THROMBOSIS,True,ocular_vascular_occlusion_ischaemia,Included after semantic review of keyword candidate
+GLAUCOMATOUS OPTIC DISC ATROPHY,True,optic_nerve_disc,Included after semantic review of keyword candidate
+OPTIC ATROPHY,True,optic_nerve_disc,Included after semantic review of keyword candidate
+OPTIC DISC HAEMORRHAGE,True,optic_nerve_disc,Included after semantic review of keyword candidate
+OPTIC DISC VASCULAR DISORDER,True,optic_nerve_disc,Included after semantic review of keyword candidate
+OPTIC NERVE CUPPING,True,optic_nerve_disc,Included after semantic review of keyword candidate
+OPTIC NERVE DISORDER,True,optic_nerve_disc,Included after semantic review of keyword candidate
+OPTIC NERVE INJURY,True,optic_nerve_disc,Included after semantic review of keyword candidate
+OPTIC NERVE NEOPLASM,True,optic_nerve_disc,Included after semantic review of keyword candidate
+OPTIC NERVE SHEATH HAEMORRHAGE,True,optic_nerve_disc,Included after semantic review of keyword candidate
+OPTIC NEURITIS,True,optic_nerve_disc,Included after semantic review of keyword candidate
+OPTIC NEUROPATHY,True,optic_nerve_disc,Included after semantic review of keyword candidate
+PAPILLOEDEMA,True,optic_nerve_disc,Included after semantic review of keyword candidate
+TOXIC OPTIC NEUROPATHY,True,optic_nerve_disc,Included after semantic review of keyword candidate
+ABNORMAL SENSATION IN EYE,True,other_ocular,Included after semantic review of keyword candidate
+ACCOMMODATION DISORDER,True,other_ocular,Included after semantic review of keyword candidate
+AMBLYOPIA,True,other_ocular,Included after semantic review of keyword candidate
+ANISOCORIA,True,other_ocular,Added by prespecified ophthalmic synonym review
+ASTIGMATISM,True,other_ocular,Included after semantic review of keyword candidate
+BENIGN NEOPLASM OF EYE,True,other_ocular,Included after semantic review of keyword candidate
+CHEMICAL BURNS OF EYE,True,other_ocular,Included after semantic review of keyword candidate
+CHEMICAL EYE INJURY,True,other_ocular,Included after semantic review of keyword candidate
+DIABETIC EYE DISEASE,True,other_ocular,Included after semantic review of keyword candidate
+DRY EYE,True,other_ocular,Included after semantic review of keyword candidate
+ENDOCRINE OPHTHALMOPATHY,True,other_ocular,Included after semantic review of keyword candidate
+EXCESSIVE EYE BLINKING,True,other_ocular,Included after semantic review of keyword candidate
+EXTRAOCULAR MUSCLE DISORDER,True,other_ocular,Added by prespecified ophthalmic synonym review
+EXTRAOCULAR MUSCLE PARESIS,True,other_ocular,Added by prespecified ophthalmic synonym review
+EYE ALLERGY,True,other_ocular,Included after semantic review of keyword candidate
+EYE BURNS,True,other_ocular,Included after semantic review of keyword candidate
+EYE COLOUR CHANGE,True,other_ocular,Included after semantic review of keyword candidate
+EYE CONTUSION,True,other_ocular,Included after semantic review of keyword candidate
+EYE DISCHARGE,True,other_ocular,Included after semantic review of keyword candidate
+EYE DISORDER,True,other_ocular,Included after semantic review of keyword candidate
+EYE HAEMATOMA,True,other_ocular,Included after semantic review of keyword candidate
+EYE HAEMORRHAGE,True,other_ocular,Included after semantic review of keyword candidate
+EYE INFECTION,True,other_ocular,Included after semantic review of keyword candidate
+EYE INFECTION BACTERIAL,True,other_ocular,Included after semantic review of keyword candidate
+EYE INFECTION FUNGAL,True,other_ocular,Included after semantic review of keyword candidate
+EYE INFECTION INTRAOCULAR,True,other_ocular,Included after semantic review of keyword candidate
+EYE INFECTION STAPHYLOCOCCAL,True,other_ocular,Included after semantic review of keyword candidate
+EYE INFLAMMATION,True,other_ocular,Included after semantic review of keyword candidate
+EYE INJURY,True,other_ocular,Included after semantic review of keyword candidate
+EYE IRRITATION,True,other_ocular,Included after semantic review of keyword candidate
+EYE LUXATION,True,other_ocular,Included after semantic review of keyword candidate
+EYE MOVEMENT DISORDER,True,other_ocular,Included after semantic review of keyword candidate
+EYE OEDEMA,True,other_ocular,Included after semantic review of keyword candidate
+EYE OPACITY,True,other_ocular,Included after semantic review of keyword candidate
+EYE PAIN,True,other_ocular,Included after semantic review of keyword candidate
+EYE PRURITUS,True,other_ocular,Included after semantic review of keyword candidate
+EYE SWELLING,True,other_ocular,Included after semantic review of keyword candidate
+EYE SYMPTOM,True,other_ocular,Included after semantic review of keyword candidate
+EYE ULCER,True,other_ocular,Included after semantic review of keyword candidate
+FOREIGN BODY IN EYE,True,other_ocular,Included after semantic review of keyword candidate
+FOREIGN BODY SENSATION IN EYES,True,other_ocular,Included after semantic review of keyword candidate
+GAZE PALSY,True,other_ocular,Added by prespecified ophthalmic synonym review
+GLASSY EYES,True,other_ocular,Included after semantic review of keyword candidate
+GRAFT VERSUS HOST DISEASE IN EYE,True,other_ocular,Included after semantic review of keyword candidate
+HERPES OPHTHALMIC,True,other_ocular,Included after semantic review of keyword candidate
+HYPERMETROPIA,True,other_ocular,Included after semantic review of keyword candidate
+HYPOAESTHESIA EYE,True,other_ocular,Included after semantic review of keyword candidate
+INTRAOCULAR HAEMATOMA,True,other_ocular,Added by prespecified ophthalmic synonym review
+INTRAOCULAR MELANOMA,True,other_ocular,Added by prespecified ophthalmic synonym review
+MALIGNANT NEOPLASM OF EYE,True,other_ocular,Included after semantic review of keyword candidate
+METASTASES TO EYE,True,other_ocular,Included after semantic review of keyword candidate
+MIOSIS,True,other_ocular,Included after semantic review of keyword candidate
+MYDRIASIS,True,other_ocular,Included after semantic review of keyword candidate
+MYOPIA,True,other_ocular,Included after semantic review of keyword candidate
+NYSTAGMUS,True,other_ocular,Included after semantic review of keyword candidate
+OCULAR CYST,True,other_ocular,Included after semantic review of keyword candidate
+OCULAR DISCOMFORT,True,other_ocular,Included after semantic review of keyword candidate
+OCULAR HYPERAEMIA,True,other_ocular,Included after semantic review of keyword candidate
+OCULAR ICTERUS,True,other_ocular,Included after semantic review of keyword candidate
+OCULAR MYASTHENIA,True,other_ocular,Included after semantic review of keyword candidate
+OCULAR NEOPLASM,True,other_ocular,Included after semantic review of keyword candidate
+OCULAR ROSACEA,True,other_ocular,Included after semantic review of keyword candidate
+OCULAR SURFACE DISEASE,True,other_ocular,Included after semantic review of keyword candidate
+OCULAR SURFACE SQUAMOUS NEOPLASIA,True,other_ocular,Included after semantic review of keyword candidate
+OCULAR TOXICITY,True,other_ocular,Included after semantic review of keyword candidate
+OCULAR VASCULAR DISORDER,True,other_ocular,Included after semantic review of keyword candidate
+OPHTHALMIC HERPES SIMPLEX,True,other_ocular,Included after semantic review of keyword candidate
+OPHTHALMIC HERPES ZOSTER,True,other_ocular,Included after semantic review of keyword candidate
+OPHTHALMIC MIGRAINE,True,other_ocular,Included after semantic review of keyword candidate
+OPHTHALMOPLEGIA,True,other_ocular,Included after semantic review of keyword candidate
+PATHOLOGIC MYOPIA,True,other_ocular,Included after semantic review of keyword candidate
+PRESBYOPIA,True,other_ocular,Included after semantic review of keyword candidate
+PUPIL FIXED,True,other_ocular,Included after semantic review of keyword candidate
+PUPILLARY DISORDER,True,other_ocular,Included after semantic review of keyword candidate
+PUPILLARY REFLEX IMPAIRED,True,other_ocular,Included after semantic review of keyword candidate
+PUPILS UNEQUAL,True,other_ocular,Included after semantic review of keyword candidate
+SACCADIC EYE MOVEMENT,True,other_ocular,Included after semantic review of keyword candidate
+STRABISMUS,True,other_ocular,Added by prespecified ophthalmic synonym review
+SUPERFICIAL INJURY OF EYE,True,other_ocular,Included after semantic review of keyword candidate
+TEAR DISCOLOURATION,True,other_ocular,Added by prespecified ophthalmic synonym review
+THERMAL BURNS OF EYE,True,other_ocular,Included after semantic review of keyword candidate
+XEROPHTHALMIA,True,other_ocular,Added by prespecified ophthalmic synonym review
+ACUTE MACULAR NEURORETINOPATHY,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+ACUTE MACULAR OUTER RETINOPATHY,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+AGE-RELATED MACULAR DEGENERATION,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+CHOROID MELANOMA,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+CHOROIDAL DETACHMENT,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+CHOROIDAL EFFUSION,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+CHOROIDAL HAEMORRHAGE,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+CHOROIDAL NEOVASCULARISATION,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+CYSTOID MACULAR OEDEMA,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+DETACHMENT OF RETINAL PIGMENT EPITHELIUM,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+DIABETIC RETINAL OEDEMA,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+DIABETIC RETINOPATHY,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+DRY AGE-RELATED MACULAR DEGENERATION,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+EXUDATIVE RETINOPATHY,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+MACULAR CYST,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+MACULAR DEGENERATION,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+MACULAR DETACHMENT,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+MACULAR FIBROSIS,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+MACULAR HOLE,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+MACULAR ISCHAEMIA,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+MACULAR OEDEMA,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+MACULAR REFLEX ABNORMAL,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+MACULAR SCAR,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+MACULAR THICKENING,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+MACULOPATHY,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+NEOVASCULAR AGE-RELATED MACULAR DEGENERATION,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+NON-PROLIFERATIVE RETINOPATHY,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+RADIATION RETINOPATHY,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+RETINAL ANEURYSM,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+RETINAL ANEURYSM RUPTURE,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+RETINAL CYST,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+RETINAL DEGENERATION,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+RETINAL DEPOSITS,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+RETINAL DETACHMENT,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+RETINAL DISORDER,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+RETINAL DRUSEN,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+RETINAL EXUDATES,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+RETINAL HAEMORRHAGE,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+RETINAL INFARCTION,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+RETINAL INJURY,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+RETINAL ISCHAEMIA,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+RETINAL MELANOMA,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+RETINAL NEOVASCULARISATION,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+RETINAL OEDEMA,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+RETINAL PIGMENT EPITHELIAL TEAR,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+RETINAL PIGMENT EPITHELIOPATHY,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+RETINAL PIGMENTATION,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+RETINAL SCAR,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+RETINAL TEAR,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+RETINAL TOXICITY,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+RETINAL VASCULITIS,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+RETINAL WHITE DOTS SYNDROME,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+RETINITIS,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+RETINITIS PIGMENTOSA,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+RETINOPATHY,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+RETINOPATHY OF PREMATURITY,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+RETINOPATHY PROLIFERATIVE,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+RETINOSCHISIS,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+RHEGMATOGENOUS RETINAL DETACHMENT,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+SEROUS RETINAL DETACHMENT,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+VITREORETINAL TRACTION SYNDROME,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+VITREOUS DEGENERATION,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+VITREOUS DETACHMENT,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+VITREOUS DISORDER,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+VITREOUS FLOATERS,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+VITREOUS HAEMORRHAGE,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+VITREOUS HAZE,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+VITREOUS OPACITIES,True,retina_choroid_vitreous,Included after semantic review of keyword candidate
+ALTERED VISUAL DEPTH PERCEPTION,True,visual_symptoms_function,Included after semantic review of keyword candidate
+AMAUROSIS,True,visual_symptoms_function,Included after semantic review of keyword candidate
+ASTHENOPIA,True,visual_symptoms_function,Included after semantic review of keyword candidate
+BLINDNESS,True,visual_symptoms_function,Included after semantic review of keyword candidate
+BLINDNESS TRANSIENT,True,visual_symptoms_function,Included after semantic review of keyword candidate
+BLINDNESS UNILATERAL,True,visual_symptoms_function,Included after semantic review of keyword candidate
+CENTRAL VISION LOSS,True,visual_symptoms_function,Included after semantic review of keyword candidate
+CHROMATOPSIA,True,visual_symptoms_function,Included after semantic review of keyword candidate
+COLOUR BLINDNESS,True,visual_symptoms_function,Included after semantic review of keyword candidate
+COLOUR BLINDNESS ACQUIRED,True,visual_symptoms_function,Included after semantic review of keyword candidate
+COLOUR VISION TESTS ABNORMAL,True,visual_symptoms_function,Included after semantic review of keyword candidate
+CORTICAL VISUAL IMPAIRMENT,True,visual_symptoms_function,Included after semantic review of keyword candidate
+CYANOPSIA,True,visual_symptoms_function,Included after semantic review of keyword candidate
+DIPLOPIA,True,visual_symptoms_function,Included after semantic review of keyword candidate
+DYSCHROMATOPSIA,True,visual_symptoms_function,Included after semantic review of keyword candidate
+"HALLUCINATION, VISUAL",True,visual_symptoms_function,Included after semantic review of keyword candidate
+HALO VISION,True,visual_symptoms_function,Included after semantic review of keyword candidate
+HEMIANOPIA,True,visual_symptoms_function,Added by prespecified ophthalmic synonym review
+HEMIANOPIA HOMONYMOUS,True,visual_symptoms_function,Added by prespecified ophthalmic synonym review
+KALEIDOSCOPE VISION,True,visual_symptoms_function,Included after semantic review of keyword candidate
+LOSS OF VISUAL CONTRAST SENSITIVITY,True,visual_symptoms_function,Included after semantic review of keyword candidate
+METAMORPHOPSIA,True,visual_symptoms_function,Included after semantic review of keyword candidate
+NIGHT BLINDNESS,True,visual_symptoms_function,Included after semantic review of keyword candidate
+PHOTOPHOBIA,True,visual_symptoms_function,Included after semantic review of keyword candidate
+PHOTOPSIA,True,visual_symptoms_function,Included after semantic review of keyword candidate
+PSYCHOGENIC VISUAL DISORDER,True,visual_symptoms_function,Included after semantic review of keyword candidate
+SCINTILLATING SCOTOMA,True,visual_symptoms_function,Included after semantic review of keyword candidate
+SCOTOMA,True,visual_symptoms_function,Included after semantic review of keyword candidate
+SUDDEN VISUAL LOSS,True,visual_symptoms_function,Included after semantic review of keyword candidate
+TUNNEL VISION,True,visual_symptoms_function,Included after semantic review of keyword candidate
+VISION BLURRED,True,visual_symptoms_function,Included after semantic review of keyword candidate
+VISUAL ACUITY REDUCED,True,visual_symptoms_function,Included after semantic review of keyword candidate
+VISUAL ACUITY REDUCED TRANSIENTLY,True,visual_symptoms_function,Included after semantic review of keyword candidate
+VISUAL BRIGHTNESS,True,visual_symptoms_function,Included after semantic review of keyword candidate
+VISUAL FIELD DEFECT,True,visual_symptoms_function,Included after semantic review of keyword candidate
+VISUAL IMPAIRMENT,True,visual_symptoms_function,Included after semantic review of keyword candidate
+XANTHOPSIA,True,visual_symptoms_function,Included after semantic review of keyword candidate
+ACTINIC KERATOSIS,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+AMYOTROPHIC LATERAL SCLEROSIS,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+AORTIC VALVE SCLEROSIS,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+BLADDER NECK SCLEROSIS,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+BLEPHARORRHAPHY,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+CATARACT OPERATION,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+CATARACT OPERATION COMPLICATION,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+CATHETER SITE MACULE,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+CHOLANGITIS SCLEROSING,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+CORRECTIVE LENS USER,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+DECREASED EYE CONTACT,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+DEVICE OPTICAL ISSUE,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+DIFFUSE MESANGIAL SCLEROSIS,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+EXPOSURE VIA EYE CONTACT,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+EYE COMPLICATION ASSOCIATED WITH DEVICE,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+EYE EXCISION,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+EYE LASER SURGERY,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+EYE MUSCLE OPERATION,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+EYE OPERATION,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+EYE PROSTHESIS INSERTION,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+GLAUCOMA DRAINAGE DEVICE PLACEMENT,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+GLAUCOMA SURGERY,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+HAND-EYE COORDINATION IMPAIRED,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+IMMUNOGLOBULIN G4 RELATED SCLEROSING DISEASE,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+INTRA-OCULAR INJECTION,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+INTRAOCULAR LENS IMPLANT,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+IRIS OPERATION,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+KERATOACANTHOMA,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+KERATOSIS PILARIS,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+LENS EXTRACTION,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+LICHEN SCLEROSUS,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+LICHENOID KERATOSIS,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+MACULA THICKNESS MEASUREMENT,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+MACULE,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+MITRAL VALVE SCLEROSIS,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+MULTIPLE SCLEROSIS,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+MULTIPLE SCLEROSIS PSEUDO RELAPSE,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+MULTIPLE SCLEROSIS RELAPSE,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+NEUROMYELITIS OPTICA SPECTRUM DISORDER,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+OCULAR PROCEDURAL COMPLICATION,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+OCULAR STENT PLACEMENT,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+OPHTHALMOLOGICAL EXAMINATION ABNORMAL,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+OPTICAL COHERENCE TOMOGRAPHY ABNORMAL,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+ORBITAL DECOMPRESSION,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+PALMOPLANTAR KERATODERMA,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+POSTERIOR LENS CAPSULOTOMY,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+PRIMARY PROGRESSIVE MULTIPLE SCLEROSIS,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+PROGRESSIVE MULTIPLE SCLEROSIS,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+PTERYGIUM OPERATION,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+PUPILLARY LIGHT REFLEX TESTS ABNORMAL,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+RAPID EYE MOVEMENTS SLEEP ABNORMAL,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+RASH MACULAR,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+RASH MACULO-PAPULAR,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+RELAPSING-REMITTING MULTIPLE SCLEROSIS,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+RETINAL FUNCTION TEST ABNORMAL,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+RETINAL OPERATION,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+RETINOGRAM ABNORMAL,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+RETINOPEXY,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+SCLEREMA,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+SCLERODACTYLIA,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+SCLERODERMA,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+SCLERODERMA ASSOCIATED DIGITAL ULCER,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+SCLERODERMA OVERLAP SYNDROME,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+SCLERODERMA RENAL CRISIS,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+SCLEROTHERAPY,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+SEBORRHOEIC KERATOSIS,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+SECONDARY PROGRESSIVE MULTIPLE SCLEROSIS,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+SYSTEMIC SCLERODERMA,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+SYSTEMIC SCLEROSIS,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+SYSTEMIC SCLEROSIS PULMONARY,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+VISUAL FIELD TESTS ABNORMAL,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept
+VITRECTOMY,False,EXCLUDED,Excluded: non-ocular collision or procedure/test/exposure concept

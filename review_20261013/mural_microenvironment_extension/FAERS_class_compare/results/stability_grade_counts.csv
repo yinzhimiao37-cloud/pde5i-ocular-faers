@@ -1,0 +1,12 @@
+drug,stability_grade,PT_count
+SILDENAFIL,A: robust across audits,19
+SILDENAFIL,B: supported with qualification,9
+SILDENAFIL,C: source/version-sensitive,19
+SILDENAFIL,D: sparse,3
+TADALAFIL,A: robust across audits,9
+TADALAFIL,B: supported with qualification,8
+TADALAFIL,C: source/version-sensitive,15
+TADALAFIL,D: sparse,2
+VARDENAFIL,A: robust across audits,1
+VARDENAFIL,B: supported with qualification,1
+VARDENAFIL,D: sparse,1

@@ -1,0 +1,17 @@
+# Never publish raw FAERS files or local working databases.
+data/
+*.zip
+*.zip.partial
+*.duckdb
+*.sqlite
+*.db
+__pycache__/
+*.pyc
+*.log
+
+# Local editor and OS files.
+.venv/
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini

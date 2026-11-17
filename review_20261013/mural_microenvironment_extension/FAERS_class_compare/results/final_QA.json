@@ -1,0 +1,14 @@
+{
+  "primary_rows_equal_3x347": true,
+  "primary_signal_count": {
+    "SILDENAFIL": 50,
+    "TADALAFIL": 34,
+    "VARDENAFIL": 3
+  },
+  "stability_rows_equal_signal_rows": true,
+  "group_rows_equal_2_roles_x_3_drugs_x_10_endpoints": true,
+  "one_source_family_per_drug_PT_report": true,
+  "direct_comparisons_use_exclusive_reports": true,
+  "direct_evaluable_rows": 73,
+  "direct_BH_significant_rows": 24
+}

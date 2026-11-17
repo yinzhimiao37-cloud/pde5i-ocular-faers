@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "Three-drug PDE5 inhibitor ocular FAERS analysis"
+message: "Please cite the repository and the associated European Journal of Clinical Pharmacology manuscript."
+type: software
+authors:
+  - family-names: Yin
+    given-names: Zhimiao
+  - family-names: Xiao
+    given-names: Feng
+  - family-names: Li
+    given-names: Rong
+    email: rechelrong198222@163.com
+    affiliation: "Affiliated Hospital of North Sichuan Medical College"
+year: 2026
+license: MIT
